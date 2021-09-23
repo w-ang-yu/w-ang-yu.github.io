@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zn-CN"
-# title                    : "Liao, Jie (廖捷)"
+title                    : "Liao, Jie (廖捷)"
 title_separator          : "-"
 name                     : &name "Liao, Jie"
 description              : &description "Ph.D. student in Chongqing University"
