@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Liao, Jie"
+# title: "Liao, Jie (廖捷)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Liao, Jie (廖捷)
 ## Correspondence
 
 * Email: liaojie@cqu.edu.cn
