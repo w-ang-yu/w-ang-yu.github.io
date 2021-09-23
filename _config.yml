@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Liao, Jie"
+  # name             : "Liao, Jie"
   avatar           : "self.jpg"
   bio              : "Ph.D. student in Chongqing University"
   location         : "Chongqing, China"
