@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Liao, Jie (廖捷)
+<!-- ## Liao, Jie (廖捷) -->
 ## Correspondence
 
 * Email: liaojie@cqu.edu.cn
