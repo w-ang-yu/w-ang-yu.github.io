@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Liao, Jie (廖捷)"
+title: "Yu Wang  王菀"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<!-- ## Liao, Jie (廖捷) -->
+<!-- ## Yu Wang  王菀 -->
 ## Correspondence
 
-* Email: liaojie@cqu.edu.cn
+* Email: wang_y@cqu.edu.cn
 
 ## Brief Biography
-Liao, Jie is a first-year Ph.D. student at [School of Big Data & Software Engineering, Chongqing University ](http://www.cse.cqu.edu.cn/). He completed his BS at [College of Mathematics and Statistics, Chongqing University](http://sci.cqu.edu.cn/).
+Yu Wang is a second-year gratuate student at [School of Big Data & Software Engineering, Chongqing University ](http://www.cse.cqu.edu.cn/). He completed his BS at [National Pilot School of Software, Yunnan University, China](http://www.sei.ynu.edu.cn/).
 
-His current research interests include Recommender System and Graph Neural Network.
+His current research interests include Rumor Detection and Graph Neural Network.
 
-## Preprint
-- **Jie Liao**, Wei Zhou, Junhao Wen, Min Gao, Xiuhua Li, Jun Zeng, Fengji Luo. **SocialLGN: Light Graph Convolution Network for Social Recommendation.** (under journal submission)
+## Publications
+- **Yu Wang**, Wei Zhou, Junhao Wen, Jun Zeng, Haoran He, Lin Liu. **GRU with Level-Aware Attention for Rumor Early Detection in Social Networks.** (accepted by ICONIP 2021)
