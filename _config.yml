@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "zn-CN"
-# title                    : "Liao, Jie (廖捷)"
+# title                    : "Yu Wang(王菀)"
 title_separator          : "-"
-name                     : &name "Liao, Jie"
-description              : &description "Ph.D. student in Chongqing University"
-url                      : https://leo0481.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yu Wang"
+description              : &description "Graduate student in Chongqing University"
+url                      : https://w-ang-yu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "leo0481/leo0481.github.io"
+repository               : "w-ang-yu/w-ang-yu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  # name             : "Liao, Jie"
+  # name           : "Yu Wang"
   avatar           : "self.jpg"
-  bio              : "Ph.D. student in Chongqing University"
+  bio              : "Graduate student in Chongqing University"
   location         : "Chongqing, China"
   employer         :
   pubmed           :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "leo0481"
+  github           : "w-ang-yu"
   google_plus      :
   keybase          :
   instagram        :
