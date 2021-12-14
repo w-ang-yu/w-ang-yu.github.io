@@ -18,5 +18,5 @@ Yu Wang is a second-year gratuate student at [School of Big Data & Software Engi
 
 Her current research interests include Rumor Detection and Graph Neural Network.
 
-## Preprint
-- **Yu Wang**, Wei Zhou, Junhao Wen, Jun Zeng, Haoran He, Lin Liu. **GRU with Level-Aware Attention for Rumor Early Detection in Social Networks.** (accepted by ICONIP 2021)
+## Publication
+- **Yu Wang**, Wei Zhou, Junhao Wen, Jun Zeng, Haoran He, Lin Liu. [GRU with Level-Aware Attention for Rumor Early Detection in Social Networks. ICONIP 2021](https://link.springer.com/chapter/10.1007/978-3-030-92270-2_47)
